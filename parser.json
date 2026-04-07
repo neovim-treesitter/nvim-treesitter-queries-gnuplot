@@ -1,8 +1,7 @@
 {
   "url": "https://github.com/dpezto/tree-sitter-gnuplot",
-  "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "lang": "gnuplot",
+  "parser_version": "8923c1e38b9634a688a6c0dce7c18c8ffb823e79",
   "location": null,
-  "lang": "gnuplot"
+  "semver": false
 }
